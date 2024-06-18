@@ -1,1 +1,2 @@
-# Flappy-Bird
+# Flappy-Bird Game
+# Author - Abhayrajsinh Parmar
